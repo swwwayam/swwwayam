@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-RIDE_WITH_ME-8C1C13?style=for-the-badge&logo=linkedin&logoColor=E8C89A" alt="LinkedIn" />
 </a>
 <a href="mailto:swayamballal05@gmail.com">
-  <img src="https://img.shields.io/badge/TELEGRAM-SEND_A_WIRE-C83A24?style=for-the-badge&logo=gmail&logoColor=170B08" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-SEND_A_WIRE-C83A24?style=for-the-badge&logo=gmail&logoColor=170B08" alt="Email" />
 </a>
 
 <br /><br />
@@ -104,14 +104,14 @@ I build end-to-end data and ML solutions—from raw information and experimentat
       <p align="center"><code>THE AUTONOMOUS TRAILBOSS</code></p>
       <p>An agentic AI system built to plan and orchestrate end-to-end machine learning pipelines—from data preparation and experimentation to evaluation and delivery.</p>
       <p><b>Loadout:</b> Python · Agentic AI · ML Automation · Data Pipelines</p>
-      <p align="center"><a href="https://github.com/swwwayam?tab=repositories"><b>INSPECT THE BUILD →</b></a></p>
+      <p align="center"><a href="https://github.com/swwwayam/daisy"><b>INSPECT THE BUILD →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🥊 FIGHTSYNC AI</h3>
       <p align="center"><code>LEARN. ADAPT. SURVIVE.</code></p>
       <p>A 3D reinforcement learning combat system exploring adaptive agent behavior, tactical decision-making, and learned strategies inside a simulated arena.</p>
       <p><b>Loadout:</b> Reinforcement Learning · 3D Simulation · AI Agents</p>
-      <p align="center"><a href="https://github.com/swwwayam?tab=repositories"><b>INSPECT THE BUILD →</b></a></p>
+      <p align="center"><a href="https://github.com/swwwayam/fightsync-ds"><b>INSPECT THE BUILD →</b></a></p>
     </td>
   </tr>
 </table>
